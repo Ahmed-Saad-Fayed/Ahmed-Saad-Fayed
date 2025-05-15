@@ -1,67 +1,66 @@
-<h1 align="center">Hi there 👋, I'm Ahmed Fayed</h1>
-<h3 align="center">💻 Embedded & Electronics Enthusiast | 🎯 Software Testing | 💡 Problem Solver</h3>
+<h1 align="center">Hey there 👋, I'm Ahmed Fayed</h1>
 
----
-
-### ⚡ About Me:
-- 🧑‍🎓 Student at Faculty of Engineering - Damanhour University, Electronics & Communications Dept.
-- 🧪 Learning Software Testing (Manual, API, Automation)
-- 🔧 Interested in Embedded Systems, Arduino Projects, and Digital Logic Design
-- 💬 Ask me about C++, Java, Python, and electronics projects!
-
----
-
-### 🔋 Featured Projects:
-
-#### 🔌 Power Supply Circuit  
-[![](https://img.shields.io/badge/Circuit-Power%20Supply-orange?style=flat-square&logo=capacitor)](#)
-> Dual 5V & 9V regulated supply using 7805 & 7809. Simulated on Proteus.
-
-#### 🧠 Smart Curtain System  
-[![](https://img.shields.io/badge/Logic%20Gates-Curtain%20Control-blue?style=flat-square&logo=logstash)](#)
-> Fully hardware-based auto-curtain system using TTL logic (7400 series).
-
-#### 🚦 Arduino Traffic Light  
-[![](https://img.shields.io/badge/Arduino-Traffic%20System-lightgreen?style=flat-square&logo=arduino)](#)
-> 7-Segment, LEDs, buttons — a simple I/O control system with Arduino Nano.
-
-#### ☀️ Dual Axis Solar Tracker  
-[![](https://img.shields.io/badge/Solar%20Energy-Tracking%20System-yellow?style=flat-square&logo=solarcamp)](#)
-> Arduino-based smart solar panel that tracks the sun using LDRs and servos.
-
-#### 🔥 Fire Detection System  
-[![](https://img.shields.io/badge/Fire%20Control-Safety%20Project-red?style=flat-square&logo=firefox-browser)](#)
-> Detects heat using NTC thermistor. Triggers LED + buzzer alerts.
-
-#### 🧪 DEPI Graduation Testing Project  
-[![](https://img.shields.io/badge/Testing%20Project-DEPI-blueviolet?style=flat-square&logo=testcafe)](#)
-> Full testing lifecycle using Selenium, Postman, TestNG, and Java.
-
----
-
-### ⚙️ Tools & Technologies:
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-Circuit%20Sim-blue?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-Microcontroller-00979D?style=flat-square&logo=arduino)
-![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=flat-square&logo=selenium)
-![Postman](https://img.shields.io/badge/Postman-API-orange?style=flat-square&logo=postman)
-![CapCut](https://img.shields.io/badge/CapCut-Video%20Editor-black?style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva)
-
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayed&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedfayed&theme=radical" width="49%" />
+  🧑‍💻 Engineering Student | 🧪 Software Tester | ⚙️ Electronics Enthusiast 
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+</p>
 
 ---
 
-### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmedsaadfayed)
+## 🔧 About Me
+
+- 🎓 Communication & Electronics Engineering student at Damanhour University (Class of 2027)  
+- 🧪 Skilled in manual, API, and automation testing using Selenium & Postman  
+- ⚙️ Passionate about electronics, circuits, and embedded systems  
+- 🥇 Excelled in academic and technical projects  
+- 🎨 Experienced in Canva & CapCut for creative work  
+
+---
+
+## 🚀 My Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🔌 Power Supply Circuit | Dual output (9V, 5V) regulated power supply | Proteus |
+| 🧠 Smart Curtain System | Curtain logic using hardware gates and LDRs | TTL ICs |
+| 🚦 Arduino Traffic Light | Traffic light simulation with countdown | Arduino |
+| ☀️ Solar Tracker | Dual-axis panel tracking sunlight | Arduino, Servos |
+| 🔥 Fire Alert System | Temp-based alert with buzzer + LCD | Arduino, Thermistor |
+| 🧪 DEPI Testing Project | End-to-end testing (Manual, API, Automation) | Java, Selenium |
+| 📝 Manual Testing Guide | Structured test scenarios and bug logs | Excel, Word |
+| 📖 Documentation Guide | SRS, Test Plan, and technical docs | PDF, DOCX |
+
+---
+
+## 🛠️ Tools & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Proteus-000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Electronics-FFCA28?style=for-the-badge&logo=raspberrypi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:ahmed.saad.fayed0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmedsaadfayed"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/your-github-Ahmed-Saad-Fayed"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
