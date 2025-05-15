@@ -1,6 +1,6 @@
 <!-- Typing animation header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Ahmed+Fayed" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=100000000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Ahmed+Fayed" alt="Typing Effect" />
 </p>
 
 <!-- Animated coding image -->
