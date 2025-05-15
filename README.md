@@ -73,8 +73,11 @@
 
 ### 🌐 Connect with me:
 
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/ahmedsaadfayed)
-[![🐙 GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/Ahmed-Saad-Fayed)
-[![📧 Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:ahmed.saad.fayed0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ahmedsaadfayed)
+ · 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)](https://github.com/Ahmed-Saad-Fayed)
+ · 
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square)](mailto:ahmed.saad.fayed0@gmail.com)
+
 
 
