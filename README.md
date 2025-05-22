@@ -77,9 +77,6 @@
   <a href="https://www.linkedin.com/in/ahmedsaadfayed">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Ahmed-Saad-Fayed">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge" alt="GitHub" />
-  </a>
   <a href="mailto:ahmed.saad.fayed0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
